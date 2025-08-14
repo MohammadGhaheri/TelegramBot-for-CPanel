@@ -1,0 +1,92 @@
+[13-Aug-2025 00:09:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFiles.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFiles.php on line 28
+[13-Aug-2025 00:10:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFile.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFile.php on line 28
+[13-Aug-2025 00:12:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFile.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFile.php on line 28
+[13-Aug-2025 00:14:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorDataField.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorDataField.php on line 29
+[13-Aug-2025 00:15:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorSelfie.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorSelfie.php on line 28
+[13-Aug-2025 00:16:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFrontSide.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFrontSide.php on line 28
+[13-Aug-2025 00:20:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFiles.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFiles.php on line 28
+[13-Aug-2025 00:25:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFile.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFile.php on line 28
+[13-Aug-2025 00:26:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFile.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFile.php on line 28
+[13-Aug-2025 00:27:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFiles.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFiles.php on line 28
+[13-Aug-2025 00:28:31 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorReverseSide.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorReverseSide.php on line 28
+[13-Aug-2025 00:31:35 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFiles.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFiles.php on line 28
+[13-Aug-2025 00:32:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFiles.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFiles.php on line 28
+[13-Aug-2025 00:34:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFile.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFile.php on line 28
+[13-Aug-2025 00:35:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorDataField.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorDataField.php on line 29
+[13-Aug-2025 00:36:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorUnspecified.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorUnspecified.php on line 28
+[13-Aug-2025 00:36:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorUnspecified.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorUnspecified.php on line 28
+[13-Aug-2025 00:39:41 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFiles.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFiles.php on line 28
+[13-Aug-2025 00:42:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFrontSide.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFrontSide.php on line 28
+[13-Aug-2025 00:43:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFiles.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFiles.php on line 28
+[13-Aug-2025 00:44:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorSelfie.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorSelfie.php on line 28
+[13-Aug-2025 00:45:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFile.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFile.php on line 28
+[13-Aug-2025 00:48:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorReverseSide.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorReverseSide.php on line 28

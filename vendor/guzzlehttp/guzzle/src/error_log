@@ -1,0 +1,98 @@
+[12-Aug-2025 18:14:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[12-Aug-2025 18:24:31 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[12-Aug-2025 18:24:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[12-Aug-2025 18:30:59 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[12-Aug-2025 18:31:01 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[12-Aug-2025 18:38:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[12-Aug-2025 18:53:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[12-Aug-2025 18:54:31 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[13-Aug-2025 05:46:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[13-Aug-2025 05:50:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[13-Aug-2025 05:51:15 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[13-Aug-2025 05:52:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[13-Aug-2025 06:04:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[13-Aug-2025 06:06:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[13-Aug-2025 06:08:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[13-Aug-2025 06:12:57 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[13-Aug-2025 06:14:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[13-Aug-2025 06:15:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[13-Aug-2025 06:22:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[13-Aug-2025 06:47:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[13-Aug-2025 06:48:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[13-Aug-2025 06:54:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[13-Aug-2025 07:05:28 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[13-Aug-2025 07:09:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[13-Aug-2025 07:15:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[13-Aug-2025 07:18:48 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[13-Aug-2025 07:19:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[13-Aug-2025 07:22:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[13-Aug-2025 07:30:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Pool.php on line 24

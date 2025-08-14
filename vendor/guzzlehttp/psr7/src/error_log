@@ -1,0 +1,105 @@
+[12-Aug-2025 16:18:37 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/InflateStream.php on line 20
+[12-Aug-2025 16:19:33 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/LimitStream.php on line 12
+[12-Aug-2025 16:19:45 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/LimitStream.php on line 12
+[12-Aug-2025 16:19:59 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/InflateStream.php on line 20
+[12-Aug-2025 16:22:05 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/LimitStream.php on line 12
+[12-Aug-2025 16:27:09 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/InflateStream.php on line 20
+[12-Aug-2025 16:27:32 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/MultipartStream.php on line 13
+[12-Aug-2025 16:28:06 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/LazyOpenStream.php on line 13
+[12-Aug-2025 16:29:09 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/MultipartStream.php on line 13
+[12-Aug-2025 16:31:13 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/LimitStream.php on line 12
+[12-Aug-2025 16:31:59 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/DroppingStream.php on line 13
+[12-Aug-2025 16:32:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestFactoryInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/HttpFactory.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/HttpFactory.php on line 26
+[12-Aug-2025 16:35:05 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/LazyOpenStream.php on line 13
+[12-Aug-2025 16:35:48 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/LazyOpenStream.php on line 13
+[12-Aug-2025 16:35:55 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/DroppingStream.php on line 13
+[12-Aug-2025 16:36:56 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/MultipartStream.php on line 13
+[12-Aug-2025 16:37:40 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/MultipartStream.php on line 13
+[12-Aug-2025 16:38:35 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/LimitStream.php on line 12
+[12-Aug-2025 16:39:03 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/InflateStream.php on line 20
+[12-Aug-2025 16:42:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestFactoryInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/HttpFactory.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/HttpFactory.php on line 26
+[12-Aug-2025 16:43:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/FnStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/FnStream.php on line 16
+[12-Aug-2025 16:43:34 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/LimitStream.php on line 12
+[12-Aug-2025 16:49:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/FnStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/FnStream.php on line 16
+[12-Aug-2025 16:52:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/Stream.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/Stream.php on line 12
+[12-Aug-2025 16:58:44 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/InflateStream.php on line 20
+[12-Aug-2025 16:59:11 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/NoSeekStream.php on line 12
+[12-Aug-2025 17:01:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\UriInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/Uri.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/Uri.php on line 17
+[12-Aug-2025 17:02:18 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/CachingStream.php on line 13
+[12-Aug-2025 17:03:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/Stream.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/Stream.php on line 12
+[12-Aug-2025 17:03:20 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/CachingStream.php on line 13
+[12-Aug-2025 17:05:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/BufferStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/BufferStream.php on line 17
+[12-Aug-2025 17:06:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\UploadedFileInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/UploadedFile.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/UploadedFile.php on line 12
+[12-Aug-2025 17:07:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/BufferStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/BufferStream.php on line 17
+[12-Aug-2025 17:08:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\UriInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/Uri.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/Uri.php on line 17
+[12-Aug-2025 17:10:07 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\MessageTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/Request.php on line 15
+[12-Aug-2025 17:10:37 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/NoSeekStream.php on line 12
+[12-Aug-2025 17:11:34 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\MessageTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/Request.php on line 15
+[12-Aug-2025 17:13:44 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\MessageTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/Response.php on line 13
+[12-Aug-2025 17:16:07 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\MessageTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/Response.php on line 13
+[12-Aug-2025 17:16:41 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/AppendStream.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/AppendStream.php on line 14
+[12-Aug-2025 17:17:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\UploadedFileInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/UploadedFile.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/UploadedFile.php on line 12
+[12-Aug-2025 17:17:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Psr7\Request" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/ServerRequest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/ServerRequest.php on line 27
+[12-Aug-2025 17:20:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/PumpStream.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/PumpStream.php on line 19
+[12-Aug-2025 17:21:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Psr7\Request" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/ServerRequest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/ServerRequest.php on line 27
+[12-Aug-2025 17:31:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/AppendStream.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/AppendStream.php on line 14
+[12-Aug-2025 17:33:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/PumpStream.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/PumpStream.php on line 19
+[13-Aug-2025 01:34:21 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/NoSeekStream.php on line 12
+[13-Aug-2025 01:34:22 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/NoSeekStream.php on line 12
+[13-Aug-2025 01:34:22 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/NoSeekStream.php on line 12
+[13-Aug-2025 01:35:19 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/NoSeekStream.php on line 12
+[13-Aug-2025 01:38:12 Asia/Tehran] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/psr7/src/NoSeekStream.php on line 12

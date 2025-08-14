@@ -1,0 +1,164 @@
+[13-Aug-2025 00:05:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php on line 7
+[13-Aug-2025 00:11:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginNotImplemented.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginNotImplemented.php on line 11
+[13-Aug-2025 00:13:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php on line 7
+[13-Aug-2025 00:33:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php on line 16
+[13-Aug-2025 00:34:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php on line 19
+[13-Aug-2025 00:35:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginNotImplemented.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginNotImplemented.php on line 11
+[13-Aug-2025 00:37:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php on line 18
+[13-Aug-2025 00:46:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginUser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginUser.php on line 17
+[13-Aug-2025 00:50:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php on line 16
+[13-Aug-2025 00:52:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php on line 19
+[13-Aug-2025 01:01:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php on line 18
+[13-Aug-2025 01:08:31 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginUser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginUser.php on line 17
+[13-Aug-2025 06:42:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php on line 7
+[13-Aug-2025 06:50:37 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginNotImplemented.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginNotImplemented.php on line 11
+[13-Aug-2025 07:04:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php on line 19
+[13-Aug-2025 07:05:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginUser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginUser.php on line 17
+[13-Aug-2025 07:07:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php on line 16
+[13-Aug-2025 07:13:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php on line 18
+[13-Aug-2025 07:24:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php on line 7
+[13-Aug-2025 07:26:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php on line 7
+[13-Aug-2025 07:34:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php on line 7
+[13-Aug-2025 07:36:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginNotImplemented.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginNotImplemented.php on line 11
+[13-Aug-2025 07:37:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php on line 18
+[13-Aug-2025 07:39:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginUser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginUser.php on line 17
+[13-Aug-2025 07:40:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php on line 19
+[13-Aug-2025 07:42:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginNotImplemented.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginNotImplemented.php on line 11
+[13-Aug-2025 07:42:55 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php on line 16
+[13-Aug-2025 07:44:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php on line 16
+[13-Aug-2025 07:46:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php on line 7
+[13-Aug-2025 07:47:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginUser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginUser.php on line 17
+[13-Aug-2025 07:47:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php on line 19
+[13-Aug-2025 07:49:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php on line 18
+[13-Aug-2025 08:01:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php on line 16
+[13-Aug-2025 08:01:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php on line 18
+[13-Aug-2025 08:01:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php on line 19
+[13-Aug-2025 08:04:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginUser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginUser.php on line 17
+[13-Aug-2025 08:06:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/Factory.php on line 7
+[13-Aug-2025 08:07:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginNotImplemented.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginNotImplemented.php on line 11
+[13-Aug-2025 08:10:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginHiddenUser.php on line 16
+[13-Aug-2025 08:12:28 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChat.php on line 18
+[13-Aug-2025 08:14:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/MessageOrigin/MessageOriginChannel.php on line 19

@@ -1,0 +1,84 @@
+[12-Aug-2025 23:03:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php on line 14
+[12-Aug-2025 23:07:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php on line 14
+[12-Aug-2025 23:27:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php on line 14
+[12-Aug-2025 23:29:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php on line 19
+[12-Aug-2025 23:31:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php on line 14
+[12-Aug-2025 23:56:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php on line 19
+[13-Aug-2025 12:27:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php on line 19
+[13-Aug-2025 12:29:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php on line 14
+[13-Aug-2025 12:32:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php on line 14
+[13-Aug-2025 12:43:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php on line 14
+[13-Aug-2025 13:43:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php on line 19
+[13-Aug-2025 13:45:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php on line 14
+[13-Aug-2025 13:53:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php on line 14
+[13-Aug-2025 14:21:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php on line 14
+[13-Aug-2025 14:24:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php on line 14
+[13-Aug-2025 14:29:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php on line 19
+[13-Aug-2025 14:47:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php on line 14
+[13-Aug-2025 15:39:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/UserCommand.php on line 14
+[13-Aug-2025 15:41:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php on line 19
+[13-Aug-2025 16:18:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php on line 14
+[13-Aug-2025 16:29:31 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\Command" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php on line 19

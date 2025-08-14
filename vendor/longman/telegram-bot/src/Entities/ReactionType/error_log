@@ -1,0 +1,112 @@
+[12-Aug-2025 19:15:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php on line 7
+[12-Aug-2025 19:18:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php on line 15
+[12-Aug-2025 19:39:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php on line 7
+[12-Aug-2025 19:43:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php on line 7
+[12-Aug-2025 19:44:31 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php on line 15
+[12-Aug-2025 19:49:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php on line 15
+[12-Aug-2025 19:55:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php on line 7
+[12-Aug-2025 20:19:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php on line 15
+[13-Aug-2025 08:02:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php on line 7
+[13-Aug-2025 08:14:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php on line 15
+[13-Aug-2025 08:16:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php on line 15
+[13-Aug-2025 08:18:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php on line 7
+[13-Aug-2025 08:28:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php on line 7
+[13-Aug-2025 08:46:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php on line 15
+[13-Aug-2025 08:50:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php on line 15
+[13-Aug-2025 08:53:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php on line 7
+[13-Aug-2025 09:09:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php on line 7
+[13-Aug-2025 09:10:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php on line 15
+[13-Aug-2025 09:13:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php on line 7
+[13-Aug-2025 09:15:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php on line 15
+[13-Aug-2025 09:24:37 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php on line 7
+[13-Aug-2025 09:29:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php on line 15
+[13-Aug-2025 09:31:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php on line 7
+[13-Aug-2025 09:34:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Factory" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/Factory.php on line 7
+[13-Aug-2025 09:36:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeNotImplemented.php on line 7
+[13-Aug-2025 09:37:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php on line 15
+[13-Aug-2025 09:38:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeEmoji.php on line 15
+[13-Aug-2025 09:53:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/ReactionType/ReactionTypeCustomEmoji.php on line 15

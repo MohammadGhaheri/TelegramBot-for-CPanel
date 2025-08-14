@@ -1,0 +1,88 @@
+[12-Aug-2025 16:39:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[12-Aug-2025 16:47:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[12-Aug-2025 17:09:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php on line 24
+[12-Aug-2025 17:19:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[12-Aug-2025 17:19:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[12-Aug-2025 17:26:37 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php on line 24
+[12-Aug-2025 18:02:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php on line 24
+[12-Aug-2025 18:02:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[12-Aug-2025 18:04:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[12-Aug-2025 18:06:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[12-Aug-2025 18:07:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php on line 24
+[12-Aug-2025 18:08:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[12-Aug-2025 18:10:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php on line 24
+[12-Aug-2025 18:12:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[12-Aug-2025 18:15:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[12-Aug-2025 18:16:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[12-Aug-2025 18:16:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[12-Aug-2025 18:17:55 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php on line 24
+[12-Aug-2025 18:21:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[12-Aug-2025 18:23:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[12-Aug-2025 18:28:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/RequestInterface.php on line 24
+[13-Aug-2025 01:33:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-message/src/ResponseInterface.php on line 20

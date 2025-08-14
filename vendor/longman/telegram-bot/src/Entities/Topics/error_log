@@ -1,0 +1,184 @@
+[13-Aug-2025 01:34:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php on line 12
+[13-Aug-2025 01:38:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php on line 12
+[13-Aug-2025 02:39:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php on line 18
+[13-Aug-2025 02:40:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php on line 12
+[13-Aug-2025 02:41:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php on line 12
+[13-Aug-2025 02:42:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php on line 12
+[13-Aug-2025 02:43:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicUnhidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicUnhidden.php on line 12
+[13-Aug-2025 02:46:35 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php on line 17
+[13-Aug-2025 03:30:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php on line 12
+[13-Aug-2025 05:47:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php on line 12
+[13-Aug-2025 05:47:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php on line 12
+[13-Aug-2025 05:48:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicUnhidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicUnhidden.php on line 12
+[13-Aug-2025 05:51:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php on line 18
+[13-Aug-2025 05:53:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php on line 17
+[13-Aug-2025 15:53:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php on line 12
+[13-Aug-2025 15:54:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php on line 12
+[13-Aug-2025 15:57:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php on line 12
+[13-Aug-2025 15:58:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php on line 18
+[13-Aug-2025 15:59:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php on line 17
+[13-Aug-2025 16:06:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicUnhidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicUnhidden.php on line 12
+[13-Aug-2025 16:09:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php on line 12
+[13-Aug-2025 16:11:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php on line 18
+[13-Aug-2025 16:12:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php on line 12
+[13-Aug-2025 16:13:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php on line 17
+[13-Aug-2025 16:23:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php on line 12
+[13-Aug-2025 16:26:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php on line 12
+[13-Aug-2025 16:27:49 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php on line 18
+[13-Aug-2025 16:28:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php on line 12
+[13-Aug-2025 16:31:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php on line 18
+[13-Aug-2025 16:33:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php on line 12
+[13-Aug-2025 16:34:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php on line 17
+[13-Aug-2025 16:36:49 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicUnhidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicUnhidden.php on line 12
+[13-Aug-2025 16:37:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php on line 12
+[13-Aug-2025 16:38:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php on line 12
+[13-Aug-2025 16:39:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php on line 12
+[13-Aug-2025 16:41:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicUnhidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicUnhidden.php on line 12
+[13-Aug-2025 16:47:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php on line 12
+[13-Aug-2025 16:48:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php on line 18
+[13-Aug-2025 16:49:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php on line 17
+[13-Aug-2025 16:53:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicClosed.php on line 12
+[13-Aug-2025 16:54:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicReopened.php on line 12
+[13-Aug-2025 16:58:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicHidden.php on line 12
+[13-Aug-2025 17:00:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicUnhidden.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/GeneralForumTopicUnhidden.php on line 12
+[13-Aug-2025 17:07:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicCreated.php on line 18
+[13-Aug-2025 17:15:31 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php on line 17
+[13-Aug-2025 17:17:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Topics/ForumTopicEdited.php on line 17

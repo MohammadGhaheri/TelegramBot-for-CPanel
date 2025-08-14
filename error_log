@@ -1,0 +1,359 @@
+[12-Aug-2025 15:19:46 Asia/Tehran] Input is empty! The webhook must not be called manually, only by Telegram.
+[12-Aug-2025 15:22:07 Asia/Tehran] Input is empty! The webhook must not be called manually, only by Telegram.
+[12-Aug-2025 15:49:58 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:49:58 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:49:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:49:58 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:49:58 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:49:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:50:00 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:50:00 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:50:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:50:04 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:50:04 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:50:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:50:12 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:50:12 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:50:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:50:28 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:50:28 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:50:28 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:51:00 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 4
+[12-Aug-2025 15:51:00 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 4
+[12-Aug-2025 15:51:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 4
+[12-Aug-2025 15:58:56 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:58:56 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:58:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:58:56 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:58:56 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:58:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:58:58 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:58:58 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:58:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:59:02 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:59:02 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:59:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:59:10 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:59:10 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:59:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:59:26 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:59:26 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:59:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:59:59 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:59:59 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 15:59:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 16:00:02 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 16:00:02 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 16:00:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 16:00:07 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 16:00:07 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 16:00:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 16:01:03 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 16:01:03 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/config.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 16:01:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/webhook.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook.php on line 2
+[12-Aug-2025 16:01:24 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[12-Aug-2025 16:01:27 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[12-Aug-2025 16:01:28 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[12-Aug-2025 16:02:47 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[12-Aug-2025 16:16:49 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[12-Aug-2025 16:17:07 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[12-Aug-2025 16:17:18 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[12-Aug-2025 16:17:53 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 01:26:04 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 01:26:05 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 01:26:09 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 01:26:49 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 01:33:17 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 03:23:42 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 03:23:52 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 03:24:03 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 03:24:16 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 08:49:58 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 09:04:30 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 11:51:51 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 11:51:59 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 11:52:04 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 11:52:11 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 11:53:31 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 11:53:34 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 11:53:39 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 11:55:57 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 11:56:00 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 11:59:52 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 11:59:52 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 11:59:54 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 11:59:58 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:00:06 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:00:22 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:00:54 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:01:40 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 12:01:46 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 12:01:48 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 12:01:51 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 12:01:59 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:02:45 Asia/Tehran] PHP Fatal error:  Uncaught Longman\TelegramBot\Exception\TelegramException: Input is empty! The webhook must not be called manually, only by Telegram. in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php:557
+Stack trace:
+#0 /home/cp63241/bot.csc1.ir/tgbot/webhook.php(26): Longman\TelegramBot\Telegram->handle()
+#1 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Telegram.php on line 557
+[13-Aug-2025 12:04:28 Asia/Tehran] Input is empty! The webhook must not be called manually, only by Telegram.
+[13-Aug-2025 12:05:27 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:05:27 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:05:27 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:05:27 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:05:27 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:05:27 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:05:27 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:05:27 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:05:27 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:05:27 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:05:27 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:05:31 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:06:26 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 12:09:29 Asia/Tehran] Input is empty! The webhook must not be called manually, only by Telegram.
+[13-Aug-2025 12:09:40 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 12:11:09 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:11:12 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:11:15 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:11:16 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:11:27 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 12:15:36 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:15:38 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:15:54 Asia/Tehran] Input is empty! The webhook must not be called manually, only by Telegram.
+[13-Aug-2025 12:18:47 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:18:49 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:22:54 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:22:55 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:22:57 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:25:16 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:25:18 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:25:19 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:25:20 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:25:21 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:25:21 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:25:22 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:25:31 Asia/Tehran] Input is empty! The webhook must not be called manually, only by Telegram.
+[13-Aug-2025 12:25:43 Asia/Tehran] Input is empty! The webhook must not be called manually, only by Telegram.
+[13-Aug-2025 12:31:49 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:31:52 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:32:18 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:33:00 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:33:02 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:34:49 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:34:55 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:50:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method Longman\TelegramBot\Telegram::setLogRequests() in /home/cp63241/bot.csc1.ir/tgbot/webhook2.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook2.php on line 40
+[13-Aug-2025 12:50:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method Longman\TelegramBot\Telegram::setLogRequests() in /home/cp63241/bot.csc1.ir/tgbot/webhook2.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook2.php on line 40
+[13-Aug-2025 12:50:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method Longman\TelegramBot\Telegram::setLogRequests() in /home/cp63241/bot.csc1.ir/tgbot/webhook2.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook2.php on line 40
+[13-Aug-2025 12:50:54 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method Longman\TelegramBot\Telegram::setLogRequests() in /home/cp63241/bot.csc1.ir/tgbot/webhook2.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook2.php on line 40
+[13-Aug-2025 12:51:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined method Longman\TelegramBot\Telegram::setLogRequests() in /home/cp63241/bot.csc1.ir/tgbot/webhook2.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/webhook2.php on line 40
+[13-Aug-2025 12:53:20 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 12:53:23 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:05:50 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:05:50 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:05:53 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:15:41 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:15:43 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:20:07 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:21:07 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:21:15 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:22:07 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:24:27 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:24:31 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:25:25 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:26:17 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:27:11 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:28:57 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:29:09 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:29:56 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:30:10 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:31:38 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:36:45 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:36:47 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:37:48 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:37:51 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:39:21 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:39:22 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:44:20 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:44:24 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:44:33 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:47:48 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:47:51 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:47:54 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:50:48 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:50:51 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:53:48 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:53:50 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:53:53 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 13:54:39 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 13:57:32 Asia/Tehran] PHP Warning:  Undefined variable $update in /home/cp63241/bot.csc1.ir/tgbot/webhook2.php on line 58
+[13-Aug-2025 13:57:32 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 14:14:34 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 14:18:07 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 14:25:46 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 14:27:06 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 14:29:52 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 14:32:23 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 14:33:07 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 14:34:05 Asia/Tehran] PHP Fatal error:  Declaration of Longman\TelegramBot\Commands\UserCommands\StartCommand::execute() must be compatible with Longman\TelegramBot\Commands\Command::execute(): Longman\TelegramBot\Entities\ServerResponse in /home/cp63241/bot.csc1.ir/tgbot/Commands/UserCommands/StartCommand.php on line 14
+[13-Aug-2025 14:36:45 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 14:36:59 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 14:37:40 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 14:38:28 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 14:38:34 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 14:39:18 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 14:40:48 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 14:40:50 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 14:40:53 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 14:40:59 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 14:42:48 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404
+[13-Aug-2025 14:43:00 Asia/Tehran] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'chat_boost_updated_id' in 'INSERT INTO' in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/DB.php on line 404

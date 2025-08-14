@@ -1,0 +1,208 @@
+[12-Aug-2025 23:47:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php on line 28
+[12-Aug-2025 23:49:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php on line 34
+[12-Aug-2025 23:50:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php on line 29
+[12-Aug-2025 23:53:40 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php on line 30
+[12-Aug-2025 23:58:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php on line 26
+[13-Aug-2025 00:00:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php on line 27
+[13-Aug-2025 00:02:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php on line 31
+[13-Aug-2025 00:04:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php on line 31
+[13-Aug-2025 01:03:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php on line 34
+[13-Aug-2025 01:10:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php on line 29
+[13-Aug-2025 01:11:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php on line 26
+[13-Aug-2025 01:14:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php on line 28
+[13-Aug-2025 01:15:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php on line 30
+[13-Aug-2025 01:17:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php on line 27
+[13-Aug-2025 01:21:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php on line 31
+[13-Aug-2025 01:36:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php on line 31
+[13-Aug-2025 07:26:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php on line 34
+[13-Aug-2025 07:27:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php on line 26
+[13-Aug-2025 07:28:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php on line 28
+[13-Aug-2025 07:31:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php on line 29
+[13-Aug-2025 07:32:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php on line 30
+[13-Aug-2025 07:33:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php on line 27
+[13-Aug-2025 07:35:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php on line 31
+[13-Aug-2025 07:36:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php on line 31
+[13-Aug-2025 07:55:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php on line 26
+[13-Aug-2025 08:02:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php on line 28
+[13-Aug-2025 08:04:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php on line 27
+[13-Aug-2025 08:05:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php on line 29
+[13-Aug-2025 08:07:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php on line 30
+[13-Aug-2025 08:08:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php on line 34
+[13-Aug-2025 08:13:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php on line 31
+[13-Aug-2025 08:19:41 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php on line 31
+[13-Aug-2025 08:24:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php on line 29
+[13-Aug-2025 08:27:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php on line 34
+[13-Aug-2025 08:29:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php on line 27
+[13-Aug-2025 08:30:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php on line 29
+[13-Aug-2025 08:33:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php on line 26
+[13-Aug-2025 08:35:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php on line 30
+[13-Aug-2025 08:36:40 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php on line 31
+[13-Aug-2025 08:37:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php on line 31
+[13-Aug-2025 08:47:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php on line 26
+[13-Aug-2025 08:47:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php on line 28
+[13-Aug-2025 08:48:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php on line 34
+[13-Aug-2025 08:51:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php on line 29
+[13-Aug-2025 08:54:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php on line 27
+[13-Aug-2025 09:00:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php on line 34
+[13-Aug-2025 09:03:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php on line 29
+[13-Aug-2025 09:04:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php on line 26
+[13-Aug-2025 09:05:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php on line 28
+[13-Aug-2025 09:06:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php on line 31
+[13-Aug-2025 09:08:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php on line 31
+[13-Aug-2025 09:12:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php on line 30

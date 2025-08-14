@@ -1,0 +1,50 @@
+>>> Bot start 2025-08-13 14:37:40
+RAW UPDATE: {"update_id":206420716,
+"message":{"message_id":185,"from":{"id":97670049,"is_bot":false,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","language_code":"en"},"chat":{"id":97670049,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","type":"private"},"date":1755083260,"text":"\u0633\u0633\u0633"}}
+Commands loaded: start,default,generic,callbackquery,genericmessage,inlinequery
+Handled update
+>>> Bot start 2025-08-13 14:38:28
+RAW UPDATE: {"update_id":206420717,
+"message":{"message_id":186,"from":{"id":97670049,"is_bot":false,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","language_code":"en"},"chat":{"id":97670049,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","type":"private"},"date":1755083308,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+Commands loaded: start,default,generic,callbackquery,genericmessage,inlinequery
+Handled update
+>>> Bot start 2025-08-13 14:38:34
+RAW UPDATE: {"update_id":206420718,
+"message":{"message_id":188,"from":{"id":97670049,"is_bot":false,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","language_code":"en"},"chat":{"id":97670049,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","type":"private"},"date":1755083314,"text":"/default","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}
+Commands loaded: start,default,generic,callbackquery,genericmessage,inlinequery
+Handled update
+>>> Bot start 2025-08-13 14:39:18
+RAW UPDATE: {"update_id":206420719,
+"message":{"message_id":190,"from":{"id":97670049,"is_bot":false,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","language_code":"en"},"chat":{"id":97670049,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","type":"private"},"date":1755083358,"text":"\u0633\u0644\u0627\u06a9"}}
+Commands loaded: start,default,generic,callbackquery,genericmessage,inlinequery
+Handled update
+>>> Bot start 2025-08-13 14:40:48
+RAW UPDATE: {"update_id":206420720,
+"message":{"message_id":191,"from":{"id":97670049,"is_bot":false,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","language_code":"en"},"chat":{"id":97670049,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","type":"private"},"date":1755083448,"text":"\u06cc"}}
+Commands loaded: start,default,generic,callbackquery,genericmessage,inlinequery
+Handled update
+>>> Bot start 2025-08-13 14:40:50
+RAW UPDATE: {"update_id":206420721,
+"message":{"message_id":192,"from":{"id":97670049,"is_bot":false,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","language_code":"en"},"chat":{"id":97670049,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","type":"private"},"date":1755083450,"text":"\u06cc\u0628"}}
+Commands loaded: start,default,generic,callbackquery,genericmessage,inlinequery
+Handled update
+>>> Bot start 2025-08-13 14:40:53
+RAW UPDATE: {"update_id":206420722,
+"message":{"message_id":193,"from":{"id":97670049,"is_bot":false,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","language_code":"en"},"chat":{"id":97670049,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","type":"private"},"date":1755083453,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+Commands loaded: start,default,generic,callbackquery,genericmessage,inlinequery
+Handled update
+>>> Bot start 2025-08-13 14:40:59
+RAW UPDATE: {"update_id":206420723,
+"message":{"message_id":195,"from":{"id":97670049,"is_bot":false,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","language_code":"en"},"chat":{"id":97670049,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","type":"private"},"date":1755083458,"text":"/default","entities":[{"offset":0,"length":8,"type":"bot_command"}]}}
+Commands loaded: start,default,generic,callbackquery,genericmessage,inlinequery
+Handled update
+>>> Bot start 2025-08-13 14:42:48
+RAW UPDATE: {"update_id":206420724,
+"message":{"message_id":197,"from":{"id":97670049,"is_bot":false,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","language_code":"en"},"chat":{"id":97670049,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","type":"private"},"date":1755083568,"text":"\u062b\u0642"}}
+Commands loaded: start,default,genericmessage,generic,callbackquery,inlinequery
+Handled update
+>>> Bot start 2025-08-13 14:43:00
+RAW UPDATE: {"update_id":206420725,
+"message":{"message_id":199,"from":{"id":97670049,"is_bot":false,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","language_code":"en"},"chat":{"id":97670049,"first_name":"\u0645\u062d\u0645\u062f","last_name":"\u0642\u0627\u0647\u0631\u06cc","username":"Mohammad_Ghaheri","type":"private"},"date":1755083580,"text":"\u0686\u0647 \u0639\u062c\u0628!!!!!!!!!!!!!!"}}
+Commands loaded: start,default,genericmessage,generic,callbackquery,inlinequery
+Handled update

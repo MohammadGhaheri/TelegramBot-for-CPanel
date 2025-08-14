@@ -1,0 +1,48 @@
+[12-Aug-2025 16:19:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14
+[12-Aug-2025 16:20:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14
+[12-Aug-2025 16:21:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14
+[12-Aug-2025 16:25:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14
+[12-Aug-2025 18:28:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14
+[12-Aug-2025 18:33:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14
+[12-Aug-2025 18:34:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14
+[12-Aug-2025 18:37:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14
+[12-Aug-2025 18:42:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14
+[12-Aug-2025 18:47:22 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14
+[12-Aug-2025 18:49:22 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14
+[12-Aug-2025 18:53:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14

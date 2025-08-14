@@ -1,0 +1,8 @@
+[12-Aug-2025 17:25:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\DB" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/ConversationDB.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/ConversationDB.php on line 18
+[12-Aug-2025 17:30:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\DB" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/ConversationDB.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/ConversationDB.php on line 18

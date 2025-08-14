@@ -1,0 +1,28 @@
+[12-Aug-2025 23:15:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 21
+[12-Aug-2025 23:33:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 21
+[13-Aug-2025 16:00:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 21
+[13-Aug-2025 16:16:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 21
+[13-Aug-2025 16:19:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 21
+[13-Aug-2025 16:44:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 21
+[13-Aug-2025 16:50:41 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 21

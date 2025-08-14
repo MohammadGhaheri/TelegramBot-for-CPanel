@@ -1,0 +1,64 @@
+[12-Aug-2025 19:05:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php on line 17
+[12-Aug-2025 19:25:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php on line 17
+[12-Aug-2025 19:42:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php on line 17
+[12-Aug-2025 19:57:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php on line 17
+[13-Aug-2025 01:33:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php on line 17
+[13-Aug-2025 10:12:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php on line 17
+[13-Aug-2025 10:20:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php on line 17
+[13-Aug-2025 10:25:37 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php on line 17
+[13-Aug-2025 11:11:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php on line 17
+[13-Aug-2025 11:14:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php on line 17
+[13-Aug-2025 11:52:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php on line 17
+[13-Aug-2025 12:04:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php on line 17
+[13-Aug-2025 12:45:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php on line 17
+[13-Aug-2025 12:47:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php on line 17
+[13-Aug-2025 13:57:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php on line 17
+[13-Aug-2025 14:17:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Exception\TelegramException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php on line 17

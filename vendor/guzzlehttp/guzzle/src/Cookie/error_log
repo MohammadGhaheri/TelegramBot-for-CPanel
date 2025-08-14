@@ -1,0 +1,108 @@
+[12-Aug-2025 21:43:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[12-Aug-2025 22:14:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[12-Aug-2025 22:44:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 10
+[12-Aug-2025 23:14:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 10
+[12-Aug-2025 23:40:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Cookie\CookieJarInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 11
+[13-Aug-2025 00:54:22 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Cookie\CookieJarInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 11
+[13-Aug-2025 01:33:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Cookie\CookieJarInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 11
+[13-Aug-2025 13:13:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[13-Aug-2025 13:37:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Cookie\CookieJarInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 11
+[13-Aug-2025 13:38:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 10
+[13-Aug-2025 13:47:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[13-Aug-2025 14:27:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 10
+[13-Aug-2025 14:34:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Cookie\CookieJarInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 11
+[13-Aug-2025 14:35:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[13-Aug-2025 14:43:22 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 10
+[13-Aug-2025 15:13:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[13-Aug-2025 15:37:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 10
+[13-Aug-2025 15:41:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[13-Aug-2025 15:42:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Cookie\CookieJarInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 11
+[13-Aug-2025 16:03:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[13-Aug-2025 16:07:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 10
+[13-Aug-2025 16:08:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Cookie\CookieJarInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 11
+[13-Aug-2025 16:10:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 10
+[13-Aug-2025 16:23:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Cookie\CookieJarInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 11
+[13-Aug-2025 16:38:40 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 10
+[13-Aug-2025 16:43:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Cookie\CookieJar" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 8
+[13-Aug-2025 16:48:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Cookie\CookieJarInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 11

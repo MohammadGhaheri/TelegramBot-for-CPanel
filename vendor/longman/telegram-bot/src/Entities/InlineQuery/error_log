@@ -1,0 +1,668 @@
+[12-Aug-2025 19:24:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php on line 42
+[12-Aug-2025 19:33:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php on line 52
+[12-Aug-2025 19:34:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php on line 55
+[12-Aug-2025 19:37:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php on line 42
+[12-Aug-2025 19:37:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php on line 52
+[12-Aug-2025 19:38:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php on line 55
+[12-Aug-2025 19:41:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php on line 49
+[12-Aug-2025 19:45:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php on line 52
+[12-Aug-2025 19:46:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php on line 52
+[12-Aug-2025 19:46:37 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php on line 69
+[12-Aug-2025 19:47:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php on line 67
+[12-Aug-2025 19:48:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php on line 55
+[12-Aug-2025 19:48:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php on line 64
+[12-Aug-2025 19:49:35 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php on line 70
+[12-Aug-2025 19:50:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php on line 55
+[12-Aug-2025 19:50:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php on line 58
+[12-Aug-2025 19:51:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php on line 59
+[12-Aug-2025 19:52:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php on line 49
+[12-Aug-2025 19:52:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php on line 60
+[12-Aug-2025 19:54:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php on line 60
+[12-Aug-2025 19:58:55 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php on line 69
+[12-Aug-2025 19:59:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php on line 69
+[12-Aug-2025 20:00:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php on line 55
+[12-Aug-2025 20:03:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php on line 67
+[12-Aug-2025 20:05:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php on line 69
+[12-Aug-2025 20:08:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php on line 55
+[12-Aug-2025 20:08:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php on line 38
+[12-Aug-2025 20:09:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php on line 58
+[12-Aug-2025 20:10:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php on line 64
+[12-Aug-2025 20:11:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php on line 21
+[12-Aug-2025 20:12:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php on line 65
+[12-Aug-2025 20:12:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php on line 70
+[12-Aug-2025 20:14:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php on line 55
+[12-Aug-2025 20:14:28 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php on line 59
+[12-Aug-2025 20:25:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php on line 38
+[12-Aug-2025 20:26:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php on line 21
+[12-Aug-2025 20:27:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php on line 65
+[12-Aug-2025 20:41:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php on line 55
+[12-Aug-2025 22:00:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php on line 65
+[12-Aug-2025 22:27:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php on line 65
+[12-Aug-2025 22:48:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php on line 52
+[12-Aug-2025 23:13:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php on line 52
+[13-Aug-2025 08:30:31 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php on line 52
+[13-Aug-2025 08:31:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php on line 42
+[13-Aug-2025 08:32:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php on line 67
+[13-Aug-2025 08:33:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php on line 55
+[13-Aug-2025 08:34:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php on line 49
+[13-Aug-2025 08:35:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php on line 60
+[13-Aug-2025 08:36:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php on line 69
+[13-Aug-2025 08:37:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php on line 52
+[13-Aug-2025 08:38:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php on line 55
+[13-Aug-2025 08:47:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php on line 64
+[13-Aug-2025 08:48:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php on line 59
+[13-Aug-2025 08:48:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php on line 55
+[13-Aug-2025 08:49:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php on line 69
+[13-Aug-2025 08:51:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php on line 70
+[13-Aug-2025 08:52:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php on line 58
+[13-Aug-2025 08:57:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php on line 65
+[13-Aug-2025 09:00:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php on line 38
+[13-Aug-2025 09:06:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php on line 55
+[13-Aug-2025 09:08:22 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php on line 52
+[13-Aug-2025 09:10:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php on line 21
+[13-Aug-2025 09:12:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php on line 65
+[13-Aug-2025 09:23:35 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php on line 55
+[13-Aug-2025 09:26:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php on line 52
+[13-Aug-2025 09:27:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php on line 49
+[13-Aug-2025 09:28:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php on line 42
+[13-Aug-2025 09:29:54 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php on line 60
+[13-Aug-2025 09:30:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php on line 55
+[13-Aug-2025 09:33:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php on line 67
+[13-Aug-2025 09:34:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php on line 52
+[13-Aug-2025 09:35:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php on line 69
+[13-Aug-2025 09:39:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php on line 59
+[13-Aug-2025 09:40:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php on line 64
+[13-Aug-2025 09:41:37 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php on line 69
+[13-Aug-2025 09:42:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php on line 42
+[13-Aug-2025 09:42:42 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php on line 70
+[13-Aug-2025 09:43:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php on line 55
+[13-Aug-2025 09:44:35 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php on line 55
+[13-Aug-2025 09:44:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php on line 38
+[13-Aug-2025 09:45:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php on line 65
+[13-Aug-2025 09:49:49 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php on line 58
+[13-Aug-2025 09:50:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php on line 55
+[13-Aug-2025 09:50:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php on line 21
+[13-Aug-2025 09:52:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php on line 69
+[13-Aug-2025 09:53:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php on line 70
+[13-Aug-2025 09:54:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php on line 52
+[13-Aug-2025 09:55:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php on line 55
+[13-Aug-2025 09:55:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php on line 52
+[13-Aug-2025 09:56:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php on line 65
+[13-Aug-2025 09:56:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php on line 49
+[13-Aug-2025 09:57:35 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php on line 60
+[13-Aug-2025 09:59:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php on line 52
+[13-Aug-2025 09:59:40 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php on line 58
+[13-Aug-2025 10:00:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php on line 55
+[13-Aug-2025 10:01:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php on line 59
+[13-Aug-2025 10:04:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php on line 64
+[13-Aug-2025 10:05:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php on line 69
+[13-Aug-2025 10:12:28 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php on line 65
+[13-Aug-2025 10:13:55 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php on line 42
+[13-Aug-2025 10:14:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php on line 38
+[13-Aug-2025 10:15:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php on line 67
+[13-Aug-2025 10:16:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php on line 21
+[13-Aug-2025 10:19:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php on line 49
+[13-Aug-2025 10:22:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php on line 55
+[13-Aug-2025 10:24:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php on line 55
+[13-Aug-2025 10:24:54 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php on line 52
+[13-Aug-2025 10:24:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php on line 55
+[13-Aug-2025 10:25:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php on line 69
+[13-Aug-2025 10:25:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php on line 55
+[13-Aug-2025 10:26:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php on line 42
+[13-Aug-2025 10:26:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php on line 60
+[13-Aug-2025 10:27:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php on line 52
+[13-Aug-2025 10:27:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php on line 52
+[13-Aug-2025 10:29:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php on line 65
+[13-Aug-2025 10:29:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php on line 52
+[13-Aug-2025 10:30:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php on line 69
+[13-Aug-2025 10:31:35 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php on line 52
+[13-Aug-2025 10:32:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php on line 58
+[13-Aug-2025 10:32:40 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php on line 52
+[13-Aug-2025 10:33:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php on line 59
+[13-Aug-2025 10:34:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php on line 49
+[13-Aug-2025 10:35:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php on line 70
+[13-Aug-2025 10:35:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php on line 55
+[13-Aug-2025 10:36:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php on line 69
+[13-Aug-2025 10:38:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php on line 55
+[13-Aug-2025 10:38:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php on line 38
+[13-Aug-2025 10:39:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php on line 60
+[13-Aug-2025 10:40:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php on line 42
+[13-Aug-2025 10:40:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php on line 65
+[13-Aug-2025 10:41:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php on line 70
+[13-Aug-2025 10:42:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php on line 64
+[13-Aug-2025 10:42:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php on line 38
+[13-Aug-2025 10:43:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php on line 58
+[13-Aug-2025 10:43:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php on line 67
+[13-Aug-2025 10:44:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php on line 52
+[13-Aug-2025 10:45:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php on line 59
+[13-Aug-2025 10:45:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php on line 55
+[13-Aug-2025 10:46:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php on line 55
+[13-Aug-2025 10:48:35 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php on line 69
+[13-Aug-2025 10:49:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php on line 65
+[13-Aug-2025 10:49:41 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php on line 64
+[13-Aug-2025 10:50:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php on line 67
+[13-Aug-2025 10:52:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php on line 21
+[13-Aug-2025 10:54:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php on line 55
+[13-Aug-2025 10:59:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php on line 65
+[13-Aug-2025 11:02:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\Entity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php on line 21
+[13-Aug-2025 11:09:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php on line 49
+[13-Aug-2025 11:11:28 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php on line 52
+[13-Aug-2025 11:12:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php on line 55
+[13-Aug-2025 11:13:28 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php on line 42
+[13-Aug-2025 11:18:54 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php on line 52
+[13-Aug-2025 11:20:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php on line 55
+[13-Aug-2025 11:22:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php on line 60
+[13-Aug-2025 11:24:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php on line 69
+[13-Aug-2025 11:28:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php on line 59
+[13-Aug-2025 11:29:49 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php on line 70
+[13-Aug-2025 11:30:54 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php on line 38
+[13-Aug-2025 11:31:54 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php on line 69
+[13-Aug-2025 11:34:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php on line 67
+[13-Aug-2025 11:37:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php on line 64
+[13-Aug-2025 11:38:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php on line 55
+[13-Aug-2025 11:39:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php on line 58
+[13-Aug-2025 11:42:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php on line 65
+[13-Aug-2025 11:43:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php on line 55
+[13-Aug-2025 11:46:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php on line 65
+[13-Aug-2025 11:49:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Entities\InlineQuery\InlineEntity" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php on line 52

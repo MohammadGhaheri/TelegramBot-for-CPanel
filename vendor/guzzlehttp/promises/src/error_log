@@ -1,0 +1,104 @@
+[12-Aug-2025 16:18:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/CancellationException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/CancellationException.php on line 10
+[12-Aug-2025 16:19:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/CancellationException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/CancellationException.php on line 10
+[12-Aug-2025 16:19:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/AggregateException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/AggregateException.php on line 10
+[12-Aug-2025 16:19:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/AggregateException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/AggregateException.php on line 10
+[12-Aug-2025 17:26:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Coroutine.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Coroutine.php on line 46
+[12-Aug-2025 17:30:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Coroutine.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Coroutine.php on line 46
+[12-Aug-2025 17:33:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Coroutine.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Coroutine.php on line 46
+[12-Aug-2025 17:35:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/CancellationException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/CancellationException.php on line 10
+[12-Aug-2025 17:37:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/AggregateException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/AggregateException.php on line 10
+[12-Aug-2025 17:38:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/AggregateException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/AggregateException.php on line 10
+[12-Aug-2025 17:40:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/FulfilledPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/FulfilledPromise.php on line 15
+[12-Aug-2025 17:41:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/CancellationException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/CancellationException.php on line 10
+[12-Aug-2025 17:42:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/CancellationException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/CancellationException.php on line 10
+[12-Aug-2025 17:43:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Coroutine.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Coroutine.php on line 46
+[12-Aug-2025 17:44:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Coroutine.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Coroutine.php on line 46
+[12-Aug-2025 17:45:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/EachPromise.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/EachPromise.php on line 13
+[12-Aug-2025 17:46:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/FulfilledPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/FulfilledPromise.php on line 15
+[12-Aug-2025 17:48:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/AggregateException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/AggregateException.php on line 10
+[12-Aug-2025 17:48:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/AggregateException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/AggregateException.php on line 10
+[12-Aug-2025 17:48:54 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\TaskQueueInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/TaskQueue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/TaskQueue.php on line 18
+[12-Aug-2025 17:50:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/EachPromise.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/EachPromise.php on line 13
+[12-Aug-2025 17:51:01 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\TaskQueueInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/TaskQueue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/TaskQueue.php on line 18
+[12-Aug-2025 17:51:54 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/RejectedPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/RejectedPromise.php on line 15
+[12-Aug-2025 17:57:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/RejectedPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/RejectedPromise.php on line 15
+[12-Aug-2025 18:20:05 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Promise.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Promise.php on line 14
+[12-Aug-2025 18:30:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Promise.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/guzzlehttp/promises/src/Promise.php on line 14

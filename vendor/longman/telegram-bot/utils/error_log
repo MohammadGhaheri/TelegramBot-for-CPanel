@@ -1,0 +1,42 @@
+[12-Aug-2025 16:47:07 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 16:47:07 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 16:47:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 16:55:13 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 16:55:13 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 16:55:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:07:09 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:07:09 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:07:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:08:35 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:08:35 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:08:35 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:16:43 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:16:43 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:16:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:28:59 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:28:59 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:28:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:36:39 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:36:39 Asia/Tehran] PHP Warning:  require(/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18
+[12-Aug-2025 19:36:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/utils/importFromLog.php on line 18

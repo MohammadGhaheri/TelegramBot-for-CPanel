@@ -1,0 +1,100 @@
+[13-Aug-2025 02:29:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php on line 20
+[13-Aug-2025 02:30:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php on line 23
+[13-Aug-2025 02:31:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php on line 19
+[13-Aug-2025 02:37:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php on line 20
+[13-Aug-2025 03:09:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php on line 19
+[13-Aug-2025 03:10:04 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php on line 20
+[13-Aug-2025 03:13:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php on line 20
+[13-Aug-2025 03:13:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php on line 23
+[13-Aug-2025 03:14:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php on line 20
+[13-Aug-2025 03:29:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php on line 19
+[13-Aug-2025 03:30:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php on line 20
+[13-Aug-2025 03:30:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php on line 23
+[13-Aug-2025 05:47:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php on line 20
+[13-Aug-2025 05:53:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php on line 19
+[13-Aug-2025 06:05:55 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php on line 20
+[13-Aug-2025 06:06:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php on line 20
+[13-Aug-2025 06:08:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php on line 19
+[13-Aug-2025 06:11:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php on line 23
+[13-Aug-2025 06:20:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php on line 19
+[13-Aug-2025 06:22:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php on line 20
+[13-Aug-2025 06:24:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php on line 23
+[13-Aug-2025 06:36:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php on line 23
+[13-Aug-2025 06:40:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php on line 20
+[13-Aug-2025 06:51:09 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php on line 20
+[13-Aug-2025 06:58:17 Asia/Tehran] PHP Fatal error:  Uncaught Error: Class "Longman\TelegramBot\Commands\SystemCommand" not found in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cp63241/bot.csc1.ir/tgbot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php on line 19
