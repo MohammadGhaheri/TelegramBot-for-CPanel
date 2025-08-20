@@ -133,6 +133,11 @@ Edit the following files manually:
 
 
 ### DB Creation Query:
+
+First run Query from following Url on PhpMyadmin Database that created for this bot before:
+[https://github.com/MohammadGhaheri/TelegramBot-for-CPanel/blob/main/vendor/longman/telegram-bot/structure.sql
+](https://github.com/MohammadGhaheri/TelegramBot-for-CPanel/blob/main/vendor/longman/telegram-bot/structure.sql
+)
   ```
 
 -- جدول کاربران با نقش و شرکت
