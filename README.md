@@ -131,3 +131,40 @@ Edit the following files manually:
   ```
 * Or simply send a message to your bot (e.g., `/start` or any text).
 
+
+DB Creation Query:
+
+-- جدول کاربران با نقش و شرکت
+CREATE TABLE `bi_users` (
+    `id` INT AUTO_INCREMENT PRIMARY KEY,
+    `telegram_id` BIGINT NOT NULL UNIQUE, -- chat_id یا user_id
+    `first_name` VARCHAR(100),
+    `last_name` VARCHAR(100),
+    `username` VARCHAR(100),
+    `company` VARCHAR(100),               -- مثلا alpha, beta, ...
+    `role` VARCHAR(50),                   -- مثلا SalesManager, TopHead
+    `created_at` TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- جدول داده‌های ذخیره‌شده (SaveData)
+CREATE TABLE `bi_saved_data` (
+    `id` INT AUTO_INCREMENT PRIMARY KEY,
+    `data_key` VARCHAR(100) NOT NULL,     -- کلید یا نام گزارش
+    `data_value` TEXT NOT NULL,           -- داده ذخیره‌شده (JSON یا متن)
+    `created_by` BIGINT,                  -- telegram_id کاربری که ذخیره کرده
+    `created_at` TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (`created_by`) REFERENCES `bi_users` (`telegram_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- جدول پیام‌های ارسال مستقیم (DirectSend)
+CREATE TABLE `bi_direct_messages` (
+    `id` INT AUTO_INCREMENT PRIMARY KEY,
+    `target_group` VARCHAR(50) NOT NULL,  -- SalesManager, TopHead, ...
+    `target_company` VARCHAR(100) NOT NULL, -- alpha, beta, All
+    `raw_message` TEXT NOT NULL,          -- متن خام پیام
+    `sent_by` BIGINT,                     -- telegram_id ارسال‌کننده
+    `sent_at` TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (`sent_by`) REFERENCES `bi_users` (`telegram_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+
