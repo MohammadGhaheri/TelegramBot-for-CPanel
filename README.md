@@ -132,7 +132,8 @@ Edit the following files manually:
 * Or simply send a message to your bot (e.g., `/start` or any text).
 
 
-DB Creation Query:
+### DB Creation Query:
+  ```
 
 -- جدول کاربران با نقش و شرکت
 CREATE TABLE `bi_users` (
@@ -167,4 +168,4 @@ CREATE TABLE `bi_direct_messages` (
     FOREIGN KEY (`sent_by`) REFERENCES `bi_users` (`telegram_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-
+  ```
